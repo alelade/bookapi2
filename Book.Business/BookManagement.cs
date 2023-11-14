@@ -14,6 +14,11 @@ public class BookManagement
     {
         return BusinessResult<bool>.Ok(true);
     }
+
+    public BusinessResult<bool> Get()
+    {
+        return BusinessResult<bool>.Ok(true);
+    }
     public BusinessResult<bool> Update()
     {
         return BusinessResult<bool>.Ok(true);

@@ -15,7 +15,7 @@ public class BookManagement
         return BusinessResult<bool>.Ok(true);
     }
 
-    public BusinessResult<bool> Set2()
+    public BusinessResult<bool> Set3()
     {
         return BusinessResult<bool>.Ok(true);
     }

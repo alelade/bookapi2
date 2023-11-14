@@ -15,6 +15,10 @@ public class BookManagement
         return BusinessResult<bool>.Ok(true);
     }
 
+    public BusinessResult<bool> Set()
+    {
+        return BusinessResult<bool>.Ok(true);
+    }
     public BusinessResult<bool> Get()
     {
         return BusinessResult<bool>.Ok(true);
